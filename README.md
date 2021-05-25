@@ -1,1 +1,1 @@
-# google_homepage
+This project is an attempt to visually recreate the Google homepage.
