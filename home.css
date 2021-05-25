@@ -6,6 +6,11 @@
   width: 330px;
 }
 
+.searchbar {
+  margin-top: 30px;
+  text-align: center;
+}
+
 .navbar-top {
   background-color:white;
   margin-top: 0px;
