@@ -1,0 +1,45 @@
+#google-logo {
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 110px;
+  display: block;
+  width: 330px;
+}
+
+.navbar-top {
+  background-color:white;
+  margin-top: 0px;
+  margin-right: 14px;
+  margin-left: 14px;
+  padding: 0px;
+  height: 70px;
+}
+
+#sign-in-button {
+  background-color: #1a73e8;
+  padding: 8px 29px 8px 29px;
+  margin-top: 12px;
+  border-radius: 4px;
+  color: white;
+}
+
+.right {
+  float: right;
+}
+
+.left {
+  float: left;
+}
+
+li {
+  display: inline;
+  padding-top: 20px;
+  padding-right: 10px;
+  padding-left: 10px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+
+li:hover {
+  text-decoration: underline;
+}
