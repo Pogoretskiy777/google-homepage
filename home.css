@@ -18,7 +18,7 @@
 #sign-in-button {
   background-color: #1a73e8;
   padding: 8px 29px 8px 29px;
-  margin-top: 12px;
+  margin-top: 8px;
   border-radius: 4px;
   color: white;
 }
@@ -33,7 +33,7 @@
 
 li {
   display: inline;
-  padding-top: 20px;
+  padding-top: 15px;
   padding-right: 10px;
   padding-left: 10px;
   font-family: 'Roboto', sans-serif;
