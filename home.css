@@ -28,6 +28,22 @@
   color: white;
 }
 
+textarea {
+  border-radius: 27px;
+  padding: 13px 20px 1px 45px;
+  margin-left: px;
+  border-color: gray;
+  box-sizing: border-box;
+  font-size: 15px;
+  background-image: url('https://image.flaticon.com/icons/png/512/622/622669.png');
+  background-repeat: no-repeat;
+  background-size: 18px 18px;
+  background-position-y: 14px;
+  background-position-x: 15px;
+  width: 580px;
+  resize: none;
+}
+
 .right {
   float: right;
 }
