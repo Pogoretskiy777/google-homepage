@@ -11,15 +11,6 @@
   text-align: center;
 }
 
-.navbar-top {
-  background-color:white;
-  margin-top: 0px;
-  margin-right: 14px;
-  margin-left: 14px;
-  padding: 0px;
-  height: 70px;
-}
-
 #sign-in-button {
   background-color: #1a73e8;
   padding: 10px 20px 10px 20px;
@@ -105,17 +96,18 @@ textarea:hover {
   box-shadow: 0px 3px 7px 0px #c7c7c7;
 }
 
+.navbar-top {
+  background-color:white;
+  margin-top: 0px;
+  margin-right: 14px;
+  margin-left: 14px;
+  padding: 0px;
+  height: 70px;
+}
+
 .right {
   float: right;
   font-size: 13px;
-}
-
-.left {
-  float: left;
-  font-size: 14px;
-}
-
-li {
   display: inline;
   padding-top: 15px;
   padding-right: 10px;
@@ -123,6 +115,50 @@ li {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-li:hover {
+.left {
+  float: left;
+  font-size: 14px;
+  display: inline;
+  padding-top: 15px;
+  padding-right: 10px;
+  padding-left: 6px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.left:hover {
   text-decoration: underline;
+}
+
+.right:hover {
+  text-decoration: underline;
+}
+
+.footer {
+  background-color:rgb(180, 180, 180);
+  margin-bottom: 3px;
+  margin-top: 280px;
+  padding: 5px 14px 5px 14px;
+  height: 10px;
+}
+
+.lefty {
+  float: left;
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  padding-top: 15px;
+  padding-right: 10px;
+  padding-left: 6px;
+  background-color:rgb(180, 180, 180);
+}
+
+.righty {
+  float: right;
+  display: inline;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  padding-top: 15px;
+  padding-right: 10px;
+  padding-left: 6px;
+  background-color:rgb(180, 180, 180);
 }
