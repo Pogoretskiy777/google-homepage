@@ -166,3 +166,11 @@ textarea:hover {
   margin-right: 20px;
   background-color:rgb(242, 242, 242);
 }
+
+.lefty:hover {
+  text-decoration: underline;
+}
+
+.righty:hover {
+  text-decoration: underline;
+}
