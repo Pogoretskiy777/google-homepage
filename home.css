@@ -146,9 +146,7 @@ textarea:hover {
   display: inline;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  padding-top: 15px;
-  padding-right: 10px;
-  padding-left: 6px;
+  padding: 0px;
   background-color:rgb(180, 180, 180);
 }
 
@@ -157,8 +155,6 @@ textarea:hover {
   display: inline;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
-  padding-top: 15px;
-  padding-right: 10px;
-  padding-left: 6px;
+  padding: 0px;
   background-color:rgb(180, 180, 180);
 }
